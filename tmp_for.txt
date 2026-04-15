@@ -1,0 +1,12 @@
+Accio
+variable i : int$
+variable a : int$
+for (i = 0$ i < 3$ i = i + 1)
+begin
+if (i == 1)
+begin
+continue$
+end
+a = a + i$
+end
+Lumos

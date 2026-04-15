@@ -1,0 +1,6 @@
+Accio
+variable a : int$
+variable b : int$
+variable c : int$
+a = b * -c + b * -c$
+Lumos
